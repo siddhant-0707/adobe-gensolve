@@ -1,0 +1,5 @@
+Flask==2.3.2
+opencv-python-headless==4.5.5.64
+numpy==1.26.4
+svgwrite==1.4.1
+cairosvg==2.5.2

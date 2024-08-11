@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Result Image</title>
+</head>
+<body>
+    <h1>Processed Image</h1>
+    <img src="{{ url_for('result_file', filename=filename) }}" alt="Result Image">
+    <br><br>
+    <a href="{{ url_for('index') }}">Upload another csv</a>
+</body>
+</html>
