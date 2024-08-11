@@ -7,4 +7,6 @@ python app.py
 ```
 
 Results:
+
+
 ![Result](/solutions/isolated.png "isolated.csv")
